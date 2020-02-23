@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<PackData name="Club Data download for Spain"
+          desc="The Club Data download containing all club data for Spain - generated at 15-Jun-2018 05:00:03">
+    <ClubData baseImageUrl="//smimgs.com/images/logos/clubs/">
+        <C id="135" n="Deportivo Alav&#xE9;s"/>
+        <C id="136" n="Albacete Balompi&#xE9;"/>
+        <C id="137" n="UD Almer&#xED;a"/>
+        <C id="138" n="Athletic Club"/>
+        <C id="139" n="Atl&#xE9;tico Madrid"/>
+        <C id="140" n="Barcelona"/>
+        <C id="141" n="Celta Vigo"/>
+        <C id="142" n="Granada CF"/>
+        <C id="143" n="C&#xE1;diz CF"/>
+        <C id="144" n="C&#xF3;rdoba CF"/>
+        <C id="145" n="RC Deportivo"/>
+        <C id="146" n="SD Eibar"/>
+        <C id="147" n="Elche CF"/>
+        <C id="148" n="RCD Espanyol"/>
+        <C id="149" n="Getafe CF"/>
+        <C id="150" n="Gimn&#xE0;stic Tarragona"/>
+        <C id="151" n="Levante UD"/>
+        <C id="152" n="Lleida Esportiu"/>
+        <C id="153" n="RCD Mallorca"/>
+        <C id="154" n="M&#xE1;laga CF"/>
+        <C id="155" n="Atl&#xE9;tico Malague&#xF1;o"/>
+        <C id="156" n="CD Numancia"/>
+        <C id="157" n="CA Osasuna"/>
+        <C id="158" n="Polideportivo Ejido"/>
+        <C id="159" n="Pontevedra CF"/>
+        <C id="160" n="Racing Ferrol"/>
+        <C id="161" n="Real Racing Club"/>
+        <C id="162" n="Real Betis"/>
+        <C id="163" n="Real Madrid"/>
+        <C id="164" n="Real Murcia"/>
+        <C id="165" n="Real Sociedad"/>
+        <C id="166" n="RC Recreativo"/>
+        <C id="167" n="Salamanca AC"/>
+        <C id="168" n="Sevilla"/>
+        <C id="169" n="Real Sporting"/>
+        <C id="170" n="CD Tenerife"/>
+        <C id="171" n="Terrassa FC"/>
+        <C id="172" n="Valencia CF"/>
+        <C id="173" n="Real Valladolid"/>
+        <C id="174" n="Villarreal CF"/>
+        <C id="175" n="Xerez"/>
+        <C id="176" n="Real Zaragoza"/>
+        <C id="488" n="H&#xE9;rcules"/>
+        <C id="747" n="CD Castell&#xF3;n"/>
+        <C id="748" n="Lorca Atl&#xE9;tico"/>
+        <C id="789" n="UD Las Palmas"/>
+        <C id="790" n="SD Ponferradina"/>
+        <C id="791" n="Real Madrid Castilla"/>
+        <C id="854" n="UD Vecindario"/>
+        <C id="1190" n="Sevilla Atl&#xE9;tico"/>
+        <C id="1298" n="Rayo Vallecano"/>
+        <C id="1313" n="Girona FC"/>
+        <C id="1334" n="SD Huesca"/>
+        <C id="1335" n="Alicante CF"/>
+        <C id="1524" n="FC Cartagena"/>
+        <C id="1530" n="Real Uni&#xF3;n"/>
+        <C id="1531" n="Villarreal CF B"/>
+        <C id="1565" n="CD Guadalajara"/>
+        <C id="1612" n="Real Oviedo"/>
+        <C id="1615" n="Barcelona B"/>
+        <C id="1616" n="AD Alcorc&#xF3;n"/>
+        <C id="1653" n="Barakaldo CF"/>
+        <C id="1655" n="Caudal Deportivo"/>
+        <C id="1656" n="Cultural Leonesa"/>
+        <C id="1680" n="Monta&#xF1;eros CF"/>
+        <C id="1681" n="CD Lugo"/>
+        <C id="1682" n="CD San Roque de Lepe"/>
+        <C id="1684" n="Atl&#xE9;tico Madrid B"/>
+        <C id="1695" n="CD Badajoz"/>
+        <C id="1696" n="CD Alcoyano"/>
+        <C id="1697" n="AD Ceuta"/>
+        <C id="1698" n="SD Lemona"/>
+        <C id="1720" n="CD Ourense"/>
+        <C id="1739" n="UD Logro&#xF1;&#xE9;s"/>
+        <C id="1745" n="CE Sabadell"/>
+        <C id="1775" n="Ontinyent CF"/>
+        <C id="1842" n="Coruxo"/>
+        <C id="1873" n="CD Roquetas"/>
+        <C id="1891" n="CD Mirand&#xE9;s"/>
+        <C id="1893" n="Atl&#xE9;tico Baleares"/>
+        <C id="1904" n="Lucena CF"/>
+        <C id="1915" n="RSD Alcal&#xE1;"/>
+        <C id="1927" n="Real Ja&#xE9;n"/>
+        <C id="1929" n="CD Puertollano"/>
+        <C id="1938" n="CD Toledo"/>
+        <C id="1939" n="Orihuela CF"/>
+        <C id="1945" n="La Roda CF"/>
+        <C id="1953" n="L&amp;amp;#39;Hospitalet"/>
+        <C id="1955" n="Burgos CF"/>
+        <C id="1962" n="UB Conquense"/>
+        <C id="1973" n="CF Reus Deportiu"/>
+        <C id="1974" n="UD Melilla"/>
+        <C id="1975" n="CF Palencia"/>
+        <C id="1977" n="CF Badalona"/>
+        <C id="1978" n="CD Guijuelo"/>
+        <C id="2025" n="Hurac&#xE1;n Valencia"/>
+        <C id="2026" n="UE Llagostera"/>
+        <C id="2048" n="Ol&#xED;mpic X&#xE0;tiva"/>
+        <C id="2049" n="SD Amorebieta"/>
+        <C id="2050" n="Sestao River Club"/>
+        <C id="2051" n="Zamora CF"/>
+        <C id="2085" n="CD Legan&#xE9;s"/>
+        <C id="2086" n="Club Marino"/>
+        <C id="2087" n="UD Sanse de Los Reyes"/>
+        <C id="2088" n="Rayo Vallecano B"/>
+        <C id="2089" n="Real Sporting B"/>
+        <C id="2090" n="Gimn&#xE1;stic Torrelavega"/>
+        <C id="2091" n="Bilbao Athletic"/>
+        <C id="2092" n="Real Sociedad B"/>
+        <C id="2093" n="CA Osasuna B"/>
+        <C id="2096" n="UE Sant Andreu"/>
+        <C id="2097" n="CD Teruel"/>
+        <C id="2098" n="RB Linense"/>
+        <C id="2099" n="RCD Mallorca B"/>
+        <C id="2100" n="Deportivo Arag&#xF3;n"/>
+        <C id="2101" n="Valencia Mestalla"/>
+        <C id="2102" n="Betis Deportivo Balompi&#xE9;"/>
+        <C id="2103" n="UD Almer&#xED;a B"/>
+        <C id="2104" n="&#xC9;cija Balompi&#xE9;"/>
+        <C id="2105" n="CF Villanovense"/>
+        <C id="2106" n="CP Cacere&#xF1;o"/>
+        <C id="2147" n="Real Madrid C"/>
+        <C id="2148" n="Real Avil&#xE9;s"/>
+        <C id="2149" n="CF Fuenlabrada"/>
+        <C id="2150" n="Getafe CF B"/>
+        <C id="2151" n="CD Marino"/>
+        <C id="2152" n="CD Tudelano"/>
+        <C id="2153" n="Real Racing Club B"/>
+        <C id="2154" n="SD Logro&#xF1;&#xE9;s"/>
+        <C id="2155" n="CD Izarra"/>
+        <C id="2156" n="Pe&#xF1;a Sport"/>
+        <C id="2157" n="SD Noja"/>
+        <C id="2158" n="RCD Espanyol B"/>
+        <C id="2159" n="Atl&#xE9;tico Levante"/>
+        <C id="2160" n="AE Prat"/>
+        <C id="2161" n="CD Constancia"/>
+        <C id="2162" n="Yeclano Deportivo"/>
+        <C id="2163" n="CD Binissalem"/>
+        <C id="2165" n="Arroyo CP"/>
+        <C id="2166" n="CD San Fernando"/>
+        <C id="2167" n="Atl&#xE9;tico Sanluque&#xF1;o"/>
+        <C id="2168" n="UCAM Murcia"/>
+        <C id="2169" n="Loja CD"/>
+        <C id="2598" n="Extremadura UD"/>
+        <C id="2600" n="SD Compostela"/>
+        <C id="2674" n="Atl&#xE9;tico Mancha Real"/>
+        <C id="2685" n="Celta Vigo B"/>
+        <C id="2686" n="Talavera de la Reina"/>
+        <C id="2687" n="UD Lanzarote"/>
+        <C id="2688" n="CD Dorneda"/>
+        <C id="2748" n="Granada CF B"/>
+        <C id="2768" n="Lorca FC"/>
+        <C id="2784" n="Elche Ilicitano"/>
+        <C id="2793" n="CD Laudio"/>
+        <C id="2817" n="C&#xF3;rdoba CF B"/>
+        <C id="2901" n="Algeciras CF"/>
+        <C id="2970" n="CD Tropez&#xF3;n"/>
+        <C id="3016" n="Catarroja CF"/>
+        <C id="3021" n="UE Cornell&#xE0;"/>
+        <C id="3024" n="CD Sari&#xF1;ena"/>
+        <C id="3025" n="Las Palmas Atl&#xE9;tico"/>
+        <C id="3026" n="CD Puerta Bonita"/>
+        <C id="3027" n="UE Olot"/>
+        <C id="3028" n="CD El Palo"/>
+        <C id="3029" n="Real &#xC1;vila CF"/>
+        <C id="3190" n="CE Europa"/>
+        <C id="3191" n="Arenas Club"/>
+        <C id="3193" n="Antequera CF"/>
+        <C id="3302" n="Palam&#xF3;s CF"/>
+        <C id="3330" n="CD Lealtad"/>
+        <C id="3331" n="UD Somozas"/>
+        <C id="3332" n="Uni&#xF3;n Popular de Langreo"/>
+        <C id="3333" n="Atl&#xE9;tico Astorga"/>
+        <C id="3334" n="Real Valladolid B"/>
+        <C id="3336" n="UD Socu&#xE9;llamos"/>
+        <C id="3337" n="Trival Valderas"/>
+        <C id="3338" n="SD Leioa"/>
+        <C id="3339" n="CD Eldense"/>
+        <C id="3340" n="Marbella FC"/>
+        <C id="3347" n="UE Figueres"/>
+        <C id="3558" n="Ciudad Real"/>
+        <C id="3560" n="M&#xE9;rida AD"/>
+        <C id="3574" n="Arandina CF"/>
+        <C id="3659" n="UD Almansa"/>
+        <C id="3699" n="Club Portugalete"/>
+        <C id="3870" n="Cand&#xE1;s CF"/>
+        <C id="3871" n="Rayo Majadahonda"/>
+        <C id="3902" n="UD San Pedro"/>
+        <C id="3903" n="Pozuelo de Alarc&#xF3;n"/>
+        <C id="3904" n="CP Villarrobledo"/>
+        <C id="3916" n="Pobla de Mafumet"/>
+        <C id="3943" n="CD Ebro"/>
+        <C id="3944" n="Gernika Club"/>
+        <C id="3945" n="CD Mensajero"/>
+        <C id="3946" n="CD Llosetense"/>
+        <C id="3947" n="Jumilla CF"/>
+        <C id="3948" n="Linares Deportivo"/>
+        <C id="3964" n="V&#xE9;lez CF"/>
+        <C id="4031" n="CD Laguna"/>
+        <C id="4046" n="FC Asc&#xF3;"/>
+        <C id="4049" n="UD Villa Santa Br&#xED;gida"/>
+        <C id="4052" n="AD Parla"/>
+        <C id="4123" n="Deportivo Fabril"/>
+        <C id="4196" n="CD Getxo"/>
+        <C id="4232" n="SD Tarazona"/>
+        <C id="4233" n="CF La Nuc&#xED;a"/>
+        <C id="4234" n="SCR Pe&#xF1;a Deportiva"/>
+        <C id="4235" n="CD Vitoria"/>
+        <C id="4268" n="Muro CF"/>
+        <C id="4344" n="CD Santurtzi"/>
+        <C id="4349" n="CD Calahorra"/>
+        <C id="4372" n="CDA Navalcarnero"/>
+        <C id="4469" n="CD Palencia Balompi&#xE9;"/>
+        <C id="4473" n="Uni&#xF3;n Sur Yaiza"/>
+        <C id="4474" n="UD Ibarra"/>
+        <C id="4475" n="CD Choco"/>
+        <C id="4477" n="CDC Moscard&#xF3;"/>
+        <C id="4519" n="Quintanar del Rey"/>
+        <C id="4528" n="CD Boiro"/>
+        <C id="4529" n="UD Mutilvera"/>
+        <C id="4530" n="Zamudio SD"/>
+        <C id="4531" n="Atl&#xE9;tico Saguntino"/>
+        <C id="4532" n="CF Gav&#xE0;"/>
+        <C id="4533" n="CD El Ejido"/>
+        <C id="4546" n="CF Peralada"/>
+        <C id="4554" n="Berganti&#xF1;os FC"/>
+        <C id="4623" n="Lorca Deportiva"/>
+        <C id="4632" n="Internacional de Madrid"/>
+        <C id="4706" n="Rayo Cantabria"/>
+        <C id="4721" n="CD Torrevieja"/>
+        <C id="4726" n="UD Alzira"/>
+        <C id="4740" n="SD Formentera"/>
+        <C id="4741" n="CA Cirbonero"/>
+        <C id="4742" n="Atl&#xE9;tico Pinto"/>
+        <C id="4743" n="CCD Cerceda"/>
+        <C id="4746" n="R&#xE1;pido de Bouzas"/>
+        <C id="4809" n="Mar Menor"/>
+        <C id="4811" n="RCD Carabanchel"/>
+        <C id="4812" n="Paterna CF"/>
+        <C id="4813" n="SD Beasain"/>
+        <C id="4814" n="CD Basconia"/>
+        <C id="4883" n="Uni&#xF3;n Adarve"/>
+        <C id="4884" n="Gimn&#xE1;stica Segoviana"/>
+        <C id="4904" n="Unionistas de Salamanca"/>
+        <C id="4928" n="UD Los Barrios"/>
+        <C id="4959" n="SD Ejea"/>
+        <C id="4968" n="UD Ibiza"/>
+        <C id="4971" n="CD Don Benito"/>
+        <C id="5028" n="SD Bprja"/>
+        <C id="5029" n="AD Almud&#xE9;var"/>
+        <C id="5048" n="Uni&#xF3;n Viera"/>
+        <C id="5049" n="SD Tenisca"/>
+        <C id="5078" n="CF Salmantino"/>
+        <C id="5085" n="&#xC1;guilas CF"/>
+        <C id="5124" n="Atl&#xE9;tico Victoria"/>
+    </ClubData>
+</PackData>
